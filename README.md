@@ -1,14 +1,16 @@
-# JSON Desk 技术支持
+# JSON Desk Support
 
-JSON Desk 是一款在本机处理 JSON 的桌面工具，支持格式化、压缩、语法高亮、搜索、校验与本地文件保存。
+Usage tips, common questions, and the privacy policy for JSON Desk. English is the default language; each page includes a Simplified Chinese switch.
 
-- [技术支持网站](https://json-desk-support.netlify.app/)
-- [隐私政策](https://json-desk-support.netlify.app/privacy.html)
-- [提交问题](https://github.com/jmh233/json-desk-support/issues/new)（需要 GitHub 账号）
-- [查看已有问题](https://github.com/jmh233/json-desk-support/issues)
+- [Support (English)](https://json-desk-support.netlify.app/)
+- [Privacy policy (English)](https://json-desk-support.netlify.app/privacy)
+- [技术支持（简体中文）](https://json-desk-support.netlify.app/zh)
+- [隐私政策（简体中文）](https://json-desk-support.netlify.app/privacy-zh)
+- [Report an issue](https://github.com/jmh233/json-desk-support/issues/new) — a GitHub account is required.
+- [View existing issues](https://github.com/jmh233/json-desk-support/issues)
 
-反馈时请提供应用版本、macOS 版本、复现步骤、预期结果及实际结果。如需附上 JSON，请使用已移除令牌、密码和真实用户资料的精简示例。Issues 内容与附件是公开的。
+Include your app version, macOS version, reproduction steps, expected behavior, and actual result. Use a small example with access tokens, passwords, and real user information removed. Issues and attachments are public.
 
-本仓库只存放支持网站和隐私政策，不包含 JSON Desk 应用源码。
+This repository contains only the support website and privacy policy, not the application source code. Language switching uses static links, with no JavaScript, cookies, or stored language preference. Navigation between support and privacy pages stays in the selected language. Direct visits to the main URLs always display English.
 
-网站通过 Netlify 连接本仓库的 master 分支自动部署。GitHub Pages 备用地址：https://jmh233.github.io/json-desk-support/ 。
+Netlify automatically deploys the root directory of the master branch. GitHub Pages remains available as a backup at https://jmh233.github.io/json-desk-support/; all page links also work there using their .html filenames.
